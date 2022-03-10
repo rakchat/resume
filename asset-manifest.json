@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.71a72fb9.css",
+    "main.js": "/resume/static/js/main.95ac94e1.js",
+    "static/js/787.f803f1d3.chunk.js": "/resume/static/js/787.f803f1d3.chunk.js",
+    "static/media/resume-banner.jpg": "/resume/static/media/resume-banner.3192f8b8cc2d7fd0bf62.jpg",
+    "static/media/profile2.png": "/resume/static/media/profile2.e2cc1e5e2b0e97502e44.png",
+    "static/media/questrial-all-400-normal.woff": "/resume/static/media/questrial-all-400-normal.0f6a6b5854daca4b795f.woff",
+    "static/media/questrial-latin-ext-400-normal.woff2": "/resume/static/media/questrial-latin-ext-400-normal.a68d331ac5327c5ddd98.woff2",
+    "static/media/questrial-latin-400-normal.woff2": "/resume/static/media/questrial-latin-400-normal.40ecd36633f072095ff9.woff2",
+    "static/media/questrial-vietnamese-400-normal.woff2": "/resume/static/media/questrial-vietnamese-400-normal.ec91aa48a2f83bc4aa31.woff2",
+    "index.html": "/resume/index.html",
+    "main.71a72fb9.css.map": "/resume/static/css/main.71a72fb9.css.map",
+    "main.95ac94e1.js.map": "/resume/static/js/main.95ac94e1.js.map",
+    "787.f803f1d3.chunk.js.map": "/resume/static/js/787.f803f1d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71a72fb9.css",
+    "static/js/main.95ac94e1.js"
+  ]
+}
