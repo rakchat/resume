@@ -9,7 +9,7 @@ function Router() {
     <>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Home />}></Route>
+          <Route path="/resume" element={<Home />}></Route>
         </Routes>
       </BrowserRouter>
     </>

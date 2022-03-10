@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Typography, Container, Divider, Grid } from "@mui/material";
+import { Box, Typography } from "@mui/material";
 
 function Profile() {
   return (
