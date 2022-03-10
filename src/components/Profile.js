@@ -26,7 +26,7 @@ function Profile() {
           PERSONAL
         </Typography>
         <Typography variant="subtitle2">
-          Ability to quickly learn and apply new thing.Ability to work well
+          Ability to quickly learn and apply new thing. Ability to work well
           under pressure. Good cooperative skills. Flexible, patient, friendly
           and open-minded.
         </Typography>
@@ -39,9 +39,10 @@ function Profile() {
           CONTACT
         </Typography>
         <Typography variant="subtitle2">
-          41/5 Soi Wuttiporn 2, Suebsiri 36 Road, Nongjabok, Mueang Nakhon
-          Ratchasima, Nakhon Ratchasima 30000 Tel. 090-818-5641 Email:
-          rakchat.sun@gmail.com
+          41 Village No. 5 Soi Wuttiporn 2, Suebsiri 36 Road, Nongjabok, Mueang
+          Nakhon Ratchasima,
+          <br /> Nakhon Ratchasima 30000
+          <br /> Tel. 090-818-5641 <br /> Email: rakchat.sun@gmail.com
         </Typography>
       </Box>
       <Box mb={9}>
